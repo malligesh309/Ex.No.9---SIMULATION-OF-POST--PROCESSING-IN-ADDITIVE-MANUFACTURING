@@ -1,4 +1,4 @@
-# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -47,7 +47,19 @@
 ![WhatsApp Image 2023-12-16 at 15 35 19_8a769659](https://github.com/Sanjit2328/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331694/28afe692-ab34-41ab-82a4-8a0ebee1d0dd)
 
 ## Output:
-![WhatsApp Image 2023-12-16 at 15 53 05_20a4db64](https://github.com/Sanjit2328/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331694/473f5d8e-0dfa-4df5-b876-1fad28a654a3)
+1.Support removal
+
+![image](https://github.com/user-attachments/assets/1201f0ec-d86b-4a26-9edb-bde8803eaf00)
+
+2.UV Curving
+
+![image](https://github.com/user-attachments/assets/53767f05-116d-47dd-a561-8039e95c0ab9)
+
+
+3.Heat Treatment
+
+![image](https://github.com/user-attachments/assets/b07fac00-f951-4c60-9a60-647e308c24d6)
+
 
 ### Name:Malligesh
 ### Register Number:212223230119
